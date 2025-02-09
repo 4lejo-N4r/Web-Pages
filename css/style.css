@@ -35,16 +35,17 @@ body {
 
 .title h1{
     font-size: 60px;
-    font-weight: 530;
+    font-weight: 570;
 }
 
 .title p{
     font-size: 27px;
+    color: #252525c7;
 }
 
 .title button{
     font-size: 18px;
-    color: rgba(240, 248, 255, 0.779);
+    color: rgba(240, 248, 255, 0.947);
     width: 155px;
     height: 50px;
     border-radius: 18px;
@@ -56,7 +57,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 40px;
-    top: 600px;
+    top: 500px;
     /* background-color: blue; */
     padding-left: 60%;
 }
@@ -75,3 +76,22 @@ body {
     gap: 10px;
 
 }
+
+.a p{
+    font-size: 25px;
+    color: #252525c7;
+}
+
+.b p{
+    font-size: 25px;
+    color: #252525c7;
+
+}
+
+.a h2{
+    font-size: 38;
+    color: #25252579;
+}
+.b h2{
+    font-size: 38;
+    color: #25252579;}
