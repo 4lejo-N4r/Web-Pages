@@ -1,0 +1,48 @@
+@import url('variables.css');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+}
+body {
+    font-family: "heavy", sans-serif;
+}
+
+.images{
+    position: absolute;
+    left: 500px;
+    top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.C1 img{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+}
+
+.C2 img{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+
+.C3 img{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+
+.C4 img{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+
+}
